@@ -18,7 +18,7 @@ This Python project helps manage the file system, monitor system resources, and 
 ## How to Run the Project
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/File_System_Monitoring_Tool.git
+    git clone https://github.com/Jameel-25/File_System_Monitoring_Tool.git
     cd File_System_Monitoring_Tool
     ```
 
